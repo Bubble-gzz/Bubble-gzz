@@ -19,7 +19,6 @@ jobs:
           user: Bubble-gzz
           template: classic
           base: header, activity, community, repositories, metadata
-          config_animated: yes
           config_timezone: Asia/Shanghai
           plugin_activity: yes
           plugin_activity_days: 14
