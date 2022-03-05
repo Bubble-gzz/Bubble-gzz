@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            73 Commits
+                            74 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -321,27 +321,27 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="210.3509623039567" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="210.3509623039567" y="0" width="199.50648336119735" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="409.85744566515405" y="0" width="35.15243113605605" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="445.0098768012101" y="0" width="9.749273545099912" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="454.75915034631" y="0" width="4.509568306663482" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="459.26871865297346" y="0" width="0.42114481331104214" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="459.6898634662845" y="0" width="0.23117188121964813" height="8" fill="#F05138"/>
-                    <rect mask="url(#languages-bar)" x="459.9210353475042" y="0" width="0.07896465249582041" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="230.37048977197338" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="230.37048977197338" y="0" width="185.42798712655778" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="415.7984768985312" y="0" width="30.987471969559902" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="446.78594886809105" y="0" width="8.594152123734174" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="455.38010099182526" y="0" width="3.975261937266642" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="459.3553629290919" y="0" width="0.37124638825380635" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="459.72660931734566" y="0" width="0.20378198485670895" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="459.9303913022024" y="0" width="0.0696086977975887" height="8" fill="#A97BFF"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        JavaScript
-                    </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         HTML
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        JavaScript
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1455,6 +1455,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
+                                        <div class="sha">#6b83403</div>
+                                        <div class="message">Site updated: 2022-03-06 00:03:46</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Bubble-gzz/Bubble-gzz.github.io</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
                                         <div class="sha">#d9cb6de</div>
                                         <div class="message">Site updated: 2022-03-04 19:23:36</div>
                                     </div>
@@ -1507,32 +1527,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Bubble-gzz/Linear-Tokenizer</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#4cef840</div>
-                                        <div class="message">realize the linear tokenization algorithm</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 5 Mar 2022, 23:15:36 (timezone Asia/Shanghai) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 6 Mar 2022, 00:21:04 (timezone Asia/Shanghai) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
