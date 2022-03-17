@@ -38,7 +38,7 @@
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            88 Commits
+                            89 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -321,14 +321,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="231.70551934468565" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="231.70551934468565" y="0" width="142.34784489906554" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="374.0533642437512" y="0" width="29.908253637151088" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="403.9616178809023" y="0" width="23.78820976321374" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="427.74982764411607" y="0" width="19.31385943335951" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="447.06368707747555" y="0" width="9.599620859144627" height="8" fill="#DA3434"/>
-                    <rect mask="url(#languages-bar)" x="456.6633079366202" y="0" width="3.0516966637456657" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="459.7150046003659" y="0" width="0.2849953996341594" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="249.45448814643044" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="249.45448814643044" y="0" width="131.2808780111374" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="380.7353661575678" y="0" width="27.58300836973728" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="408.3183745273051" y="0" width="21.938773054430076" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="430.2571475817352" y="0" width="17.81228529306502" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="448.0694328748002" y="0" width="8.853289319948171" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="456.92272219474836" y="0" width="2.8144396406160115" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="459.73716183536436" y="0" width="0.262838164635628" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1476,6 +1476,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
+                                        <div class="sha">#22fc3a4</div>
+                                        <div class="message">Site updated: 2022-03-17 21:20:23</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Bubble-gzz/Bubble-gzz.github.io</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
                                         <div class="sha">#7bf875c</div>
                                         <div class="message">Site updated: 2022-03-17 17:41:31</div>
                                     </div>
@@ -1542,32 +1562,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Bubble-gzz/Bubble-gzz.github.io</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#84a488b</div>
-                                        <div class="message">Site updated: 2022-03-17 12:31:39</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 17 Mar 2022, 20:27:57 (timezone Asia/Shanghai) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 17 Mar 2022, 21:22:50 (timezone Asia/Shanghai) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
