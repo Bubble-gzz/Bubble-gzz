@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            216 Commits
+                            217 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -321,14 +321,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="158.29128524125218" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="158.29128524125218" y="0" width="148.7984671238924" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="307.0897523651446" y="0" width="59.82961005250275" height="8" fill="#222c37"/>
-                    <rect mask="url(#languages-bar)" x="366.91936241764733" y="0" width="54.64926313231301" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="421.56862554996036" y="0" width="11.482183126857842" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="433.05080867681824" y="0" width="10.401723936226253" height="8" fill="#aace60"/>
-                    <rect mask="url(#languages-bar)" x="443.45253261304447" y="0" width="9.13261550056006" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="452.58514811360453" y="0" width="7.414851886395498" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="158.65093913603164" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="158.65093913603164" y="0" width="148.62109091425552" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="307.2720300502871" y="0" width="59.758289765000534" height="8" fill="#222c37"/>
+                    <rect mask="url(#languages-bar)" x="367.03031981528767" y="0" width="54.584118112063656" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="421.61443792735133" y="0" width="11.46849571353454" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="433.0829336408858" y="0" width="10.38932449151987" height="8" fill="#aace60"/>
+                    <rect mask="url(#languages-bar)" x="443.4722581324057" y="0" width="9.121728905067032" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="452.59398703747274" y="0" width="7.406012962527199" height="8" fill="#555555"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1449,6 +1449,26 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Bubble-gzz/Nekode</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#82dad10</div>
+                                        <div class="message">new puzzle: 1-6</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 2 commits in
                                         <span class="repo">Bubble-gzz/Nekode</span>
                                     </div>
@@ -1530,32 +1550,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Bubble-gzz/Nekode</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#aeb949e</div>
-                                        <div class="message">Bug Fixed: forget to load labels for tiles</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 16 Jun 2023, 12:16:05 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 16 Jun 2023, 13:12:44 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
