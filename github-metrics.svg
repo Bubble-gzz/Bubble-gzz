@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1261" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1477" class="">
     <defs>
         <style/>
     </defs>
@@ -1443,6 +1443,100 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 13 commits in
+                                        <span class="repo">Bubble-gzz/BeeBoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">develop-Bubble</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ded2231</div>
+                                        <div class="message">merge v0.1.9</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0ced0ca</div>
+                                        <div class="message">loop hierachy system</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#31cf55d</div>
+                                        <div class="message">修了bug + 结算界面的专辑图、作者、等级显示</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e5b127b</div>
+                                        <div class="message">Tutorial fonts
+
+新建了一个字体存tutorial的字</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8cdce69</div>
+                                        <div class="message">杂七杂八的</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7b732de</div>
+                                        <div class="message">change version tag to v0.1.8.9</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#72af711</div>
+                                        <div class="message">Merge branch 'develop-Bubble'</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ffcbc25</div>
+                                        <div class="message">copy &amp; paste</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d9aa01f</div>
+                                        <div class="message">delete message</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#da9bd70</div>
+                                        <div class="message">interval delete</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d60c0dd</div>
+                                        <div class="message">interval selecctor</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2c63b4e</div>
+                                        <div class="message">缝合+结算页面</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3cae5f6</div>
+                                        <div class="message">字体+结算界面</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">Bubble-gzz/BeeBoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ded2231</div>
+                                        <div class="message">merge v0.1.9</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0ced0ca</div>
+                                        <div class="message">loop hierachy system</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">Bubble-gzz/BeeBoo</span>
                                     </div>
@@ -1496,56 +1590,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Bubble-gzz/BeeBoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a74ae8c</div>
-                                        <div class="message">Resource load</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">Bubble-gzz/BeeBoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">develop-Bubble</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#9ebac97</div>
-                                        <div class="message">Bugfix: null ref at playstage</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3323a52</div>
-                                        <div class="message">grade standard adjustment</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 21 Dec 2024, 02:22:36 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Dec 2024, 03:13:17 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
