@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1660" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1261" class="">
     <defs>
         <style/>
     </defs>
@@ -1460,6 +1460,66 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 21 commits in
+                                        <span class="repo">Bubble-gzz/BeeBoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">develop-Bubble</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#8269c88</div>
+                                        <div class="message">Merge branch 'develop-Bubble'</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Bubble-gzz/BeeBoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ecaf206</div>
+                                        <div class="message">update song info</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">Bubble-gzz/BeeBoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#8269c88</div>
+                                        <div class="message">Merge branch 'develop-Bubble'</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 2 commits in
                                         <span class="repo">Bubble-gzz/BeeBoo</span>
                                     </div>
@@ -1497,166 +1557,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 30 commits in
-                                        <span class="repo">Bubble-gzz/BeeBoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">develop-Bubble</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#80ecbd7</div>
-                                        <div class="message">Keyboard debugger</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c86bbec</div>
-                                        <div class="message">修缮一些</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b34c661</div>
-                                        <div class="message">Merge branch 'main' of https://github.com/Bubble-gzz/BeeBoo</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#847f9fd</div>
-                                        <div class="message">Bugfix holdrenderer distortion</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0ab4033</div>
-                                        <div class="message">教程打标</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#68d384a</div>
-                                        <div class="message">holdrenderer bugfix</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8c677d6</div>
-                                        <div class="message">level打标</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0116320</div>
-                                        <div class="message">动画</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d24635e</div>
-                                        <div class="message">难度UI实装+最高分</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#33dcd48</div>
-                                        <div class="message">Bugfix: HoldEvent incorrect note count</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a847b3e</div>
-                                        <div class="message">new song: Daft Punk, Threads</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#54d6c77</div>
-                                        <div class="message">new songs
-
-逐渐加快_easy，timeless_easy(原easy变medium)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1e156fc</div>
-                                        <div class="message">接入素材</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#743ce45</div>
-                                        <div class="message">Bugfix: beatloop renderer &amp; tap renderer</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1116bf6</div>
-                                        <div class="message">tutorial
-
-字体颜色强度，加粗不理想明天调</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c66e61f</div>
-                                        <div class="message">fonts
-
-字体名（all)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c5e1967</div>
-                                        <div class="message">Merge branch 'main' of https://github.com/Bubble-gzz/BeeBoo</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ceb3f1d</div>
-                                        <div class="message">开始页面</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9d322ae</div>
-                                        <div class="message">Bugfix: fail to load songInfo in Build version</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#89006af</div>
-                                        <div class="message">auto option at pause menu</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Bubble-gzz/BeeBoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ea88ff6</div>
-                                        <div class="message">Bugfix: tutorial null reference</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 4 commits in
-                                        <span class="repo">Bubble-gzz/BeeBoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#39b03e1</div>
-                                        <div class="message">merge v0.1.9.5</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#58c8d77</div>
-                                        <div class="message">input logic improvement: hold lock mechanism</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d551fe6</div>
-                                        <div class="message">Key Memory Mechanism</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e487743</div>
-                                        <div class="message">Bugfix: good range 100ms-&gt;150ms</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Dec 2024, 20:33:42 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Dec 2024, 21:23:00 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
